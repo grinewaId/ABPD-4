@@ -92,6 +92,16 @@ namespace ABPD_4
             Animals.Remove(animal);
             return NoContent();
         }
+        
+        [HttpGet("search")]
+        public ActionResult<IEnumerable<Animal>> SearchAnimalsByName([FromQuery] string name)
+        {
+            var result = Animals
+                .Where(a => a.Name.Contains(name, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            return Ok(result);
+        }
     }
 
     [ApiController]

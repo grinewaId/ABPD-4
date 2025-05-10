@@ -17,3 +17,4 @@ C:\Users\Szymon\RiderProjects\ABPD-4\ABPD-4\obj\Debug\net8.0\refint\ABPD-4.dll
 C:\Users\Szymon\RiderProjects\ABPD-4\ABPD-4\obj\Debug\net8.0\ABPD-4.pdb
 C:\Users\Szymon\RiderProjects\ABPD-4\ABPD-4\obj\Debug\net8.0\ABPD-4.genruntimeconfig.cache
 C:\Users\Szymon\RiderProjects\ABPD-4\ABPD-4\obj\Debug\net8.0\ref\ABPD-4.dll
+C:\Users\Szymon\RiderProjects\ABPD-4\ABPD-4\obj\Debug\net8.0\ABPD-4.sourcelink.json
